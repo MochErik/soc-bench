@@ -12,7 +12,7 @@
 ## 🚀 Quick Install
 
 ```bash
-pip install soc-bench
+pip install git+https://github.com/MochErik/soc-bench.git
 ```
 
 ---
